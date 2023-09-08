@@ -1,0 +1,5 @@
+﻿Name,Collaborators,Date,Links,Project Report,Skills
+Wall-E : Line-following bot (simulation+hardware),https://github.com/SRA-VJTI,"April 1, 2021",https://github.com/MOLOCH-dev/Wall-E-Sim,,"C++, Coppeliasim"
+Moodylyser,,"June 1, 2020",https://github.com/hashmis79/Moodylyser,Anushree%20Sabnis%20a5db06072de0447da705deac555c6305/_Eklavya_Report-Moodylyser.pdf,"Deep Learning, Image Processing, Keras, OpenCV, Pandas, Python, Tensorflow"
+Quadruped Actuator,,"August 1, 2021",https://github.com/SRA-VJTI/TitanLegs/tree/dev,Anushree%20Sabnis%20a5db06072de0447da705deac555c6305/Titanlegs_Report.pdf,"CAD, Mechanical Design, Quadrupeds"
+Mobile Manipulator,,"November 1, 2020","https://github.com/preetijain7681/Manipulator ",Anushree%20Sabnis%20a5db06072de0447da705deac555c6305/mobile_manipulator.pdf,"Coppeliasim, Gazebo, Hardware, Mechanical Design, Python, ROS"

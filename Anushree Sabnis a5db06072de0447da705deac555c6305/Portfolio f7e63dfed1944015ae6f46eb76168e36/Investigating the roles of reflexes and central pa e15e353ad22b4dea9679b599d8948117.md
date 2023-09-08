@@ -1,0 +1,15 @@
+# Investigating the roles of reflexes and central pattern generators in the control and modulation of human locomotion using a physiologically plausible neuromechanical model
+
+Keywords: Central Pattern Generators, Motor control, Neuromechanical modelling
+Status: Submitted (March ‘23) | Journal of Neural Engineering | https://doi.org/10.1101/2023.01.25.525432
+Authors: Andrea Di Russo*, Dimitar Stanev*, Anushree Sabnis, Simon M. Danner, Jessica Ausborn, Stephane Armand, Auke Ijspeert (* Denotes equal contributions)
+
+# **Investigating the roles of reflexes and central pattern generators in the control and modulation of human locomotion using a physiologically plausible neuromechanical model**
+
+ · Central Pattern Generators ·  Neuromechanical Modelling  ·  Motor Control
+
+![cpg_image.jpg](Investigating%20the%20roles%20of%20reflexes%20and%20central%20pa%20e15e353ad22b4dea9679b599d8948117/cpg_image.jpg)
+
+## Abstract
+
+Studying the neural components regulating movement in human locomotion is obstructed by the inability to perform invasive experimental recording. Neuromechanical simulations can provide insights by modeling the locomotor circuits. Past neuromechanical models proposed control of locomotion either driven by central pattern generators (CPGs) with simple sensory commands or by a purely reflex-based network regulated by state-machine mechanisms. However, the physiological interpretation of these state-machines remains unclear. Here, we present a physiologically plausible model to investigate spinal control and modulation of human locomotion. We propose a bio-inspired controller composed of two coupled central pattern generators (CPGs) that produce the rhythm and pattern and a reflex-based network simulating low-level reflex pathways and Renshaw cells. This reflex network is based on leaky-integration neurons, and the whole system does not rely on changing reflex gains according to the gait cycle state. The only component of the controller that maintains a state-machine mechanism is the balance controller of the trunk. The musculoskeletal model is composed of a skeletal structure and 9 muscles per leg generating movement in sagittal plane. After optimizing the open parameters, human locomotion replicating kinematics and muscle activation naturally emerged. Furthermore, when CPGs were not activated, no stable and physiologically plausible gaits could be achieved through optimization, suggesting the necessity of this component to generate rhythmic behavior without a state machine mechanism regulating reflex activation. The controller could reproduce a wide range of speeds from 0.3 to 1.9 m/s. The results also showed that the net influence of feedback on motoneurons during perturbed locomotion is predominantly inhibitory and that the CPG network provides the timing of motoneurons’ activation by exciting or inhibiting muscles in specific gait phases. The proposed bio-inspired controller could contribute to our understanding of locomotor circuits of the intact spinal cord and could be used to study neuromotor disorders.
